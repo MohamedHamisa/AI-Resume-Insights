@@ -5,7 +5,7 @@
 import PyPDF2
 
 resume_file_path = 'YOUR RESUME FILE PATH'
-#e.g. resume_file_path = './Nicholas Renotte - Resume.pdf' 
+ 
 fhandle = open(resume_file_path, 'rb')
 
 pdfReader = PyPDF2.PdfFileReader(fhandle)
