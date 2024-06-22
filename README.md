@@ -12,7 +12,7 @@ This Python project uses IBM Watson Personality Insights to analyze the text ext
 ## Prerequisites
 - Python 3.x
 - Install the required libraries using pip:
-  ```bash
+  ```
   pip install PyPDF2 ibm-watson ibm-cloud-sdk-core matplotlib seaborn pandas
   ```
 
